@@ -1,9 +1,9 @@
 group-title="Deportes",ESPN
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/34
+https://delivery123.akamai-cdn-content.com/hls2/01/07083/kamo2yze3khr_n/index-v1-a1.m3u8?t=G0vekRp4hUv-i9AWlLx4RjJQggrKH0a81davsF5GHp8&s=1662946034&e=10800&f=35416897&srv=inhzpmcywqmlxnompcsb&client=63.139.151.183
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/35
+https://delivery123.akamai-cdn-content.com/hls2/01/07083/kamo2yze3khr_n/index-v1-a1.m3u8?t=G0vekRp4hUv-i9AWlLx4RjJQggrKH0a81davsF5GHp8&s=1662946034&e=10800&f=35416897&srv=inhzpmcywqmlxnompcsb&client=63.139.151.183
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/531
