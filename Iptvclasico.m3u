@@ -1,0 +1,45 @@
+group-title="Deportes",ESPN
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/34
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/35
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/531
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN Chile
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/842
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN MX
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/530
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/37
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento",Estrella TV
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/177
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes",Eurosport
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/39
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="Religion",EWTN
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/38
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",FM Hot TV
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/731
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/192
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento",Fox Sur
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/750
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Fox Life Sur
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/746
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/52
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/53
